@@ -4,7 +4,7 @@ For this project we will be exploring publicly available data from LendingClub.c
 
 I used Pandas for data analysis and Matplotlib/seaborn for data visualization.
 
-Cleaned data and fitted a decision tree and a random forest and used it to predict if the loan was paid back or not. Finally, I evaluated the results using an confusion matrix and classification report. 
+Cleaned data and fitted a decision tree and a random forest and used it to predict if the loan was paid back or not. Finally, I evaluated the results using a confusion matrix and classification report. 
 
 Udemy course - Python for Data Science and Machine Learning Bootcamp
 
